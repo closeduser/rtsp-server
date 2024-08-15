@@ -1,0 +1,5 @@
+logLevel: debug
+protocols: [tcp]
+paths:
+  all:
+    source: publisher
